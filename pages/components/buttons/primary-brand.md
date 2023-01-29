@@ -1,4 +1,4 @@
-# Primary Brand Button
+# Primary Brand Buttons
 
 Here is a basic example of a Primary Button. Buttons can be customized with several props to change the size, add an icon, etc.
 
