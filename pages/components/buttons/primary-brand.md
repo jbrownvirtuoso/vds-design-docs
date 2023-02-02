@@ -10,3 +10,11 @@ Primary Buttons have four sizes: `extraSmall`, `small`, `medium`, and `large
 
 
 So this is interesting, right?
+
+
+:::tip
+Be sure to follow this tip
+
+:::
+
+
