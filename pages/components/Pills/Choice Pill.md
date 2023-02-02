@@ -1,3 +1,6 @@
-# This is a headline about choice pills
+# Choice Pills
+
+The Pill component is useful to emphasize information to the user, works best with single word values.
 
 
+These
