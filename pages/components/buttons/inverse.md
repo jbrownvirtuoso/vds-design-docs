@@ -1,1 +1,1 @@
-Primary Inverse Brand
+Primary Brand Inverse
