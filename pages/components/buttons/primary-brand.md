@@ -9,6 +9,6 @@ Primary Buttons are high emphasis. Use once per screen to draw attention to the 
 Primary Buttons have four sizes: `extraSmall`, `small`, `medium`, and `large`. Icons are supported for every size and can be positioned at the `start` or `end` with the `iconPosition` prop.
 
 
-This is interesting, no?
+This is for Paul!
 
 
