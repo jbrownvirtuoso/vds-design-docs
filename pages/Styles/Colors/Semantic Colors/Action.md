@@ -1,0 +1,1 @@
+Commonly use for interactive components. Can be used for foreground and background colors.
