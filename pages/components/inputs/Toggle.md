@@ -1,0 +1,1 @@
+Switch represents a physical switch that allows users to turn things on or off, where choosing an option results in an immediate action.
