@@ -1,0 +1,1 @@
+Use Radio to select a single option from a list. Radio should be used instead of checkboxes if only one item can be selected from a list.
