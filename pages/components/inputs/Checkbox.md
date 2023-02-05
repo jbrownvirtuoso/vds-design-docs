@@ -1,0 +1,1 @@
+Checkbox are used when there are multiple items to select in a list. Users can select zero, one, or any number of items.
